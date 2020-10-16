@@ -1,6 +1,13 @@
 # glowblow
 
-Some glowing animations.
+Forol GlowBlow is a painter and image editor app.
+You can save your paintings as image and you can also save them as video with animations.
+This app contains a lot of cool animations.
+Built with ❤️ using Flutter.
+
+# Screenshots
+
+![Screenshot] (../master/docs/graphicAsset.png)
 
 ## Getting Started
 
