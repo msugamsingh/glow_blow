@@ -8,6 +8,11 @@ Built with ❤️ using Flutter.
 # Screenshots
 
 ![Screenshot](../master/docs/graphicAsset.png)
+![Screenshot](../master/docs/Screenshot_2020-06-21-12-25-52-425_forol.msugamsingh.png)
+![Screenshot](../master/docs/Screenshot_2020-06-21-12-27-48-746_forol.msugamsingh.png)
+![Screenshot](../master/docs/Screenshot_2020-06-21-12-31-43-381_forol.msugamsingh.png)
+![Screenshot](../master/docs/Screenshot_2020-06-21-12-32-50-348_forol.msugamsingh.png)
+![Screenshot](../master/docs/Screenshot_2020-06-21-12-33-08-614_forol.msugamsingh.png)
 
 ## Getting Started
 
