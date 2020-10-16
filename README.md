@@ -7,7 +7,7 @@ Built with ❤️ using Flutter.
 
 # Screenshots
 
-![Screenshot] (../master/docs/graphicAsset.png)
+![Screenshot](../master/docs/graphicAsset.png)
 
 ## Getting Started
 
