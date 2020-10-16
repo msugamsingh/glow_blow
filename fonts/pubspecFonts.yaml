@@ -1,0 +1,86 @@
+#name: musitory
+#description: Awesome music player with cool UI.
+#
+#version: 1.0.0+1
+#
+#environment:
+#  sdk: ">=2.1.0 <3.0.0"
+#
+#dependencies:
+#  flutter:
+#    sdk: flutter
+#
+#  cupertino_icons: ^0.1.2
+#  flute_music_player: ^0.0.6
+##  sleek_circular_slider: ^1.0.7
+#  koukicons: ^2.0.1
+#  sqflite:
+#  path_provider:
+#  curved_navigation_bar: ^0.3.1
+#  url_launcher: ^5.4.1
+#  shared_preferences: ^0.5.4+8
+#  media_notification: ^0.0.5
+##  flutter_media_notification: ^1.2.6 // me
+#  dynamic_theme: ^1.0.1
+##  carousel_slider: ^1.3.1
+#  scoped_model: ^1.0.1
+#  share: ^0.6.3+5
+#  font_awesome_flutter: ^8.5.0
+##  kf_drawer: ^1.1.2
+#  floating_search_bar: ^0.2.0
+#  flutter_sequence_animation: "^3.0.1"
+##  showcaseview: ^0.1.5
+##  wave_slider: ^0.1.0
+##  swipedetector: ^1.2.0
+##  wave: ^0.0.8
+##  firebase_admob: ^0.9.0+2
+##  clippy_flutter:
+#  animated_text_kit: ^1.3.1
+##  indexed_list_view: ^1.0.0
+#
+#
+#dev_dependencies:
+#  flutter_test:
+#    sdk: flutter
+#
+#flutter:
+#  uses-material-design: true
+#
+#  assets:
+#    - assets/images/
+#
+#  fonts:
+#    - family: ama
+#      fonts:
+#        - asset: fonts/amatic.ttf
+#    - family: lob
+#      fonts:
+#        - asset: fonts/lobster.ttf
+#    - family: mon
+#      fonts:
+#        - asset: fonts/monoton.ttf
+#    - family: sai
+#      fonts:
+#        - asset: fonts/saira.ttf
+#    - family: pac
+#      fonts:
+#        - asset: fonts/pacifico.ttf
+#    - family: ci
+#      fonts:
+#        - asset: fonts/custom_icons.ttf
+#    - family: autograph
+#      fonts:
+#        - asset: fonts/autograph.ttf
+#    - family: sign
+#      fonts:
+#        - asset: fonts/signerica.ttf
+#    - family: handwriting
+#      fonts:
+#        - asset: fonts/phont_handwriting.ttf
+#
+#
+#
+#class CustomIcons {
+#  static const IconData menu = IconData(0xe900, fontFamily: "ci");
+#  static const IconData option = IconData(0xe902, fontFamily: "ci");
+#}
